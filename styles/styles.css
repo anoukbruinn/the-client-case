@@ -1,1 +1,44 @@
 
+
+
+ul { 
+    list-style: none;
+    display:flex;
+    /* flex-direction: row-reverse; */
+    font-size: 22px;
+    /* position: absolute; */
+    right: 60px;
+    top: 15px;
+    font-weight: bold;
+    float: right;
+}
+
+li {
+padding-left: 20px;
+}
+
+img {
+     margin-bottom: 1em;
+     margin-top: 1em; 
+
+}
+a {
+    text-decoration: none;
+    color: #16612F;
+    
+}   
+font{ 
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    color: #509F6B; 
+}
+
+header {
+    background: rgb(250, 180, 180, 0.3); 
+   
+}
+
+header {
+    padding: 10px;
+}

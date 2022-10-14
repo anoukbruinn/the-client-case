@@ -5,9 +5,9 @@
 
 ## Inhoudsopgave
 
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Bronnen](#bronnen)
+  * [Beschrijving](https://github.com/anoukbruinn/the-client-case/wiki/Beschrijving)
+  * [Kenmerken](https://github.com/anoukbruinn/the-client-case/wiki/Kenmerken)
+  * [Bronnen](https://github.com/anoukbruinn/the-client-case/wiki/Bronnen)
   * [Licentie](#licentie)
 
 ## Beschrijving

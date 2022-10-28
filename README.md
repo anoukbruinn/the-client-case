@@ -1,6 +1,6 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je, zoals altijd, in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
+# The client case
 <!-- The client case -->
 
 In deze leertaak ga ik een website maken voor een klant, er zijn verschillende klanten. De klant waar ik een nieuwe website voor ga maken is Buurtcampus Oost.

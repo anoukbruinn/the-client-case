@@ -7,7 +7,7 @@ background-color: rgb(250, 180, 180, 0.3); ;
 }
 
 header {
-    background: rgb(250, 180, 180, 0.3); 
+    background: rgba(85, 141, 65, 0.3); 
    
 }
 
@@ -45,7 +45,7 @@ img {
 }
 a {
     text-decoration: none;
-    color: #16612F;   
+    color: #000000;   
 }   
 font{ 
     font-family: Inter;

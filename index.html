@@ -5,24 +5,27 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Home</title>
-  <link rel="stylesheet" href="styles/styles.css" type="text/css">
+  <title>Stekjesbieb</title>
+  <link rel="stylesheet" href="./styles/styles.css" type="text/css">
 </head>
 
 <body>
   <header>
-    <a href="home.html"><img class="header-logo" src="assets/plantswap-logo-white.png" alt="" width="130px"> </a>
+    <a href="/">
+      <img class="header-logo" src="./assets/plantswap-logo-white.png" alt="" width="130px">
+    </a>
 
     <ul>
-      <li><a href="reserveren.html">RESERVEREN</a></li>
-      <li><a href="agenda.html">AGENDA</a></li>
-      <li><img src="assets/globe 1.png" alt="globe" width="38px" height="38px"></li>
-      <li><img src="assets/phone (1) 1 (2).png" alt="phone" width="38px" height="38px"></li>
+      <li><a href="/reserveren.html">RESERVEREN</a></li>
+      <li><a href="/agenda.html">AGENDA</a></li>
+      <li><img src="./assets/globe 1.png" alt="globe" width="38px" height="38px"></li>
+      <li><img src="./assets/phone (1) 1 (2).png" alt="phone" width="38px" height="38px"></li> 
+      <!-- 💡 gebruik geen spaties in je bestandsnaam en zet width en height in je css -->
     </ul>
   </header>
 
   <div class="beforemain">
-    <img class="beforemain" src="assets/Buurtcampus Oost-logo (1) 1.png" alt="logo-beforemain" width="400px">
+    <img class="beforemain" src="./assets/Buurtcampus Oost-logo (1) 1.png" alt="logo-beforemain" width="400px">
   </div>
 
   <main>
@@ -38,7 +41,7 @@
 
   <section id="content">
     <div class="stekjes">
-      <img class="plant" src="assets/stekstation-reageerbuisjes-09-small-570x570 1.png" alt="Stekjes" width="501.97"
+      <img class="plant" src="./assets/stekstation-reageerbuisjes-09-small-570x570 1.png" alt="Stekjes" width="501.97"
         height="450">
       <div class="buurtcampus">
 
@@ -56,20 +59,19 @@
       </div>
     </div>
 
-   <a href="aanmelden.html"> <button class="btn1"> Maak een account </button>  </a>
+   <a href="/aanmelden.html">
+     <span class="btn1"> Maak een account </span>
+    </a>
 
   </section>
 
   <footer>
-    <img src="assets/Union (3).png">
+    <img src="./assets/Union (3).png">
   </footer>
 
 </body>
-
-
-
-
-
+      
+<!-- 💡 geen styletags in je html, lekker naar je css file kopieeren -->
 <style>
   body {
     margin: 0;
